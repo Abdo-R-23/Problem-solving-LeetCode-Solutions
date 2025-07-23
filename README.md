@@ -33,9 +33,11 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
