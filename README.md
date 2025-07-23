@@ -30,4 +30,12 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
