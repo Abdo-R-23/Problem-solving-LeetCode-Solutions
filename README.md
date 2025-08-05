@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0066-plus-one) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,8 @@
 | [0125-valid-palindrome](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0344-reverse-string) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
