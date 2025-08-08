@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## String
