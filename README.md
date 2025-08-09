@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -18,6 +19,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Math
 |  |
@@ -58,4 +60,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
