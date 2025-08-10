@@ -70,4 +70,20 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
