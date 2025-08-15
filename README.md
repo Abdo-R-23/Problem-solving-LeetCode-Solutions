@@ -24,12 +24,14 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
@@ -47,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
