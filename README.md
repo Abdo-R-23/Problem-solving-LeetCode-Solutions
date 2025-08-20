@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2058-concatenation-of-array](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
@@ -27,6 +28,7 @@
 | [0013-roman-to-integer](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 | [0013-roman-to-integer](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [1635-number-of-good-pairs](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -89,4 +92,8 @@
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
