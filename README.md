@@ -10,6 +10,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1603-running-sum-of-1d-array](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -37,12 +38,14 @@
 | [0013-roman-to-integer](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,9 +100,26 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
