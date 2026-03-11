@@ -122,4 +122,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Abdo-R-23/Problem-solving-LeetCode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
